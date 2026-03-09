@@ -2,4 +2,10 @@
   <Folder Name="/01/">
     <Project Path="IsnumberOddOrNot/IsnumberOddOrNot.csproj" />
   </Folder>
+  <Folder Name="/28/">
+    <Project Path="StrongerBeam/StrongerBeam.csproj" Id="5f24e91f-667e-4e8b-aa2f-d98607f07d1e" />
+  </Folder>
+  <Folder Name="/37/">
+    <Project Path="HorsesInConflict/HorsesInConflict.csproj" Id="b6095e00-9d7c-46f4-a4ce-01f685df6534" />
+  </Folder>
 </Solution>
